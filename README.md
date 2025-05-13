@@ -26,18 +26,8 @@ This project is part of my frontend internship at **FlexiSAF** and showcases how
 
 ## 💻 Live Demo
 
-👉 **[Click here to view on GitHub Pages](https://seunexploits.github.io/array-methods-demo/)**
+👉 **[Click here to view on GitHub Pages](https://seunexploits.github.io/array-methods/)**
 
----
-
-## 📂 Folder Structure
-
-array-methods-demo/
-│
-├── index.html # Main HTML file
-├── index.css # Styling
-├── index.js # JavaScript logic (array methods)
-└── README.md # Project documentation
 
 
 ---
@@ -50,7 +40,7 @@ array-methods-demo/
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 This project is built as part of my internship at **FlexiSAF**.
 
